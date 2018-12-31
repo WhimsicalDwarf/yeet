@@ -8,7 +8,7 @@
 <?php
   $servername = "localhost";
   $username = "root";
-  $password = "root";
+  $password = "1234";
   $dbname = "webdata";
   $conn = new mysqli($servername, $username, $password, $dbname);
 
