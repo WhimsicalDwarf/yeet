@@ -7,7 +7,7 @@
 <h1>Research Group Associates</h1>
 <?php
   $servername = "localhost";
-  $username = "root";
+  $username = "";
   $password = "1234";
   $dbname = "webdata";
   $conn = new mysqli($servername, $username, $password, $dbname);
